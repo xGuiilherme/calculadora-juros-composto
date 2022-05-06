@@ -1,18 +1,16 @@
 # Calculadora de Juros Compostos
-Calculadora de juros feito em Java SE utilizando o Framework Swing:
-<div align="center">
-<img src="https://user-images.githubusercontent.com/61571025/167155091-09427060-bd29-4e3d-88a9-4f9e8a991483.png" width="500px" />
-</div>
+**Calculadora de juros feito em Java SE utilizando o Framework Swing:**
 
-Resultado do Calculo dos Juros:
-<div align="center">
-<img src="https://user-images.githubusercontent.com/61571025/167155089-0cc56fa6-4483-4092-974f-a3da33bac3a7.png" width="500px" />
-</div>
+![Calculadora_Juro_Composto](https://user-images.githubusercontent.com/61571025/167166025-7380bf81-7ad6-4c9b-be92-3fc9d1c24b36.png)
 
-Forumla do Juros Composto:
-<div align="center">
-<img src="https://user-images.githubusercontent.com/61571025/167159514-4fec9862-6f0b-4c50-9ddf-f808b363b102.png" width="500px" />
-</div>
+
+**Resultado do Calculo dos Juros:**
+
+![Resultado_Do_Calculo](https://user-images.githubusercontent.com/61571025/167166646-ebc49435-603f-4889-ac04-718f475388b2.png)
+
+**Forumla do Juros Composto:**
+
+![Formula_Juro_Composto](https://user-images.githubusercontent.com/61571025/167165736-c284c960-6332-4306-b396-8a5a6e62b870.png)
 
 # Tabela de juros que foi utilizado como exemplo para os calculos.
 
