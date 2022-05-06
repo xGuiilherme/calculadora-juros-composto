@@ -8,7 +8,7 @@
 
 ![Resultado_Do_Calculo](https://user-images.githubusercontent.com/61571025/167166646-ebc49435-603f-4889-ac04-718f475388b2.png)
 
-**Forumla do Juros Composto:**
+**Fórmula do Juros Composto:**
 
 ![Formula_Juro_Composto](https://user-images.githubusercontent.com/61571025/167165736-c284c960-6332-4306-b396-8a5a6e62b870.png)
 
