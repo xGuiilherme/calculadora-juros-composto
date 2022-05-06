@@ -1,5 +1,10 @@
 package exportostech.exemploBigDecimal;
 
+/**
+ * Classe responsável por calcular e gerar um exemplo de calculo não preciso com pontos flutuantes.
+ *
+ * Exemplo de valor não preciso: Valor total é: 1.9999998
+ */
 public class ErroPontoFlutuante {
 
     public static void main(String[] args) {

@@ -77,6 +77,11 @@ public abstract class CalculadoraForm extends JFrame {
         this.pack();
     }
 
+    /**
+     * Método abstrato responsável por implementar as açoẽs do evento.
+     *
+     * @param ev Evento.
+     */
     protected abstract void btnCalcularClick(ActionEvent ev);
 
     protected abstract void btnLimparClick(ActionEvent ev);
@@ -84,7 +89,8 @@ public abstract class CalculadoraForm extends JFrame {
     protected abstract void btnFecharClick(ActionEvent ev);
 
     /**
-     * Eventos: Método responsável para adicionar uma ação nos botões quando forem clicados.
+     * Eventos: Método responsável por chamar a implementação dos campos CalcularClick, LimparClick e FecharClick, onde
+     * será executado os eventos nos botões quando forem clicados.
      */
     private void eventos() {
 
