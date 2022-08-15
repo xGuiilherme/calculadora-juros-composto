@@ -12,7 +12,7 @@
 
 ![Formula_Juro_Composto](https://user-images.githubusercontent.com/61571025/167165736-c284c960-6332-4306-b396-8a5a6e62b870.png)
 
-# Tabela de juros que foi utilizado como exemplo para os calculos.
+## Tabela de juros que foi utilizado como exemplo para os calculos.
 
 **M = C + J:**
 
